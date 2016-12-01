@@ -1,2 +1,3 @@
 # stargate
-stellar federation server
+STRIP prototype and reference implementations
+
